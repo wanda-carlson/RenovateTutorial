@@ -14,9 +14,11 @@ In this tutorial, you will learn how to configure Renovate and become familiar w
 
 What you will learn: 
 1) Installation
-2) Onboarding
-3) Getting to know Renovate’s update PRs
-4) Dependency Dashboard 
+
+2) 
+3) Onboarding
+4) Getting to know Renovate’s update PRs
+5) Dependency Dashboard 
 
 
 We will begin this tutorial with configuring and installing the Renovate App and an overview of the default settings and basic functionalities. 
